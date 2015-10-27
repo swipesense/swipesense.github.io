@@ -11,7 +11,7 @@ github_username:  swipesense
 permalink: /:year/:month/:day/:title
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 lsi: false
 safe: true
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "Rakefile", "_rake", "CNAME"]
