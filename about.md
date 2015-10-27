@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Hand hygiene. Redefined.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Consistent hand hygiene is the first and most important action caregivers make in the battle against
+hospital-acquired infections. However, despite diligent efforts, the annual statistics on affected
+patients and the  costs for infection control are staggering.
+That changes now.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+For more information, see [https://www.swipesense.com](https://www.swipesense.com).
+
+Revolutionize Your Hand Hygiene
